@@ -1,5 +1,5 @@
 public class Dwaklasa {
-    String fname = "John";
+    String fname = "John"; 
     String lname = "Doe";
     int age = 28;
 
@@ -9,3 +9,5 @@ public class Dwaklasa {
         System.out.println("Age: " + myObj.age);
     }
 }
+
+//pierwsza edycja
