@@ -9,3 +9,5 @@ public class Dwaklasa {
         System.out.println("Age: " + myObj.age);
     }
 }
+
+//druga edycja
