@@ -1,6 +1,6 @@
 public class Dwaklasa {
-    String fname = "Kamil";
-    String lname = "Kowalski";
+    String fname = "Kamil2"; //2 zmiana
+    String lname = "Kowalski2";
     int age = 28;
 
     public static void main(String[] args) {
